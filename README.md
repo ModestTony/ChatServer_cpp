@@ -3,6 +3,9 @@
 
 编译：
 cd ./ChatServer_cpp/build
+
 rm -rf *
+
 cmake ..
+
 make
